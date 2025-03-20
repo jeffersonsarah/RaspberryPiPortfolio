@@ -28,3 +28,25 @@ Tempurature Sensor: Measures tempurature to work with different products.
 
 GPIO pins: General purpose input output ports that allows the user interface various I/P devices.
 
+Micro SD Card Slot: This is where the SD card is held which contains most of the Raspberry Pi's operating system.
+
+USB-C Power Supply: This type of cord powers the Raspberry Pi.
+
+Micro HDMI Ports: These are two ports for connecting monitors to the computer system.
+
+Camera Connector: Connects a camera to the Raspberry Pi to take photos and videos.
+
+3.5mm Audio Jack: This is used for audio output.
+
+1x USB 2.0 Port: Standard USB ports to connect different things.
+
+2x USB 3.0 Port: An updated port used for higher speed devices.
+
+1 Gigabit Ethernet Port: Provides wired network.
+
+RAM: A memory chip used to run applications.
+
+CPU: The central processing unit, hold the intructions and computations for the Raspberry Pi.
+
+# Reference
+Timmons-Brown, D. (2019). Learn robotics with Raspberry Pi: Build and code your own moving, sensing, thinking robots. No Starch Press.
